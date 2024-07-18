@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trung Hoài
 - 👀 I’m interested in Web Coding
-- 🌱 I’m currently learning Software Engineer in IUH
-- 💞️ I’m looking to collaborate on Learing
+- 🌱 I’m currently working on Web Coding
+- 💞️ I’m looking to collaborate on Work
 - 📫 How to reach me: Email - trunghoaiitiuh@gmai.com
 
 <!---
